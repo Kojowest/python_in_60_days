@@ -1,0 +1,7 @@
+clean
+wash
+live
+drive
+clean
+wash
+throw
